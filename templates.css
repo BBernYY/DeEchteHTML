@@ -67,3 +67,6 @@ nav {
 .top_area {
     text-align: center;
 }
+img {
+  border-radius: 10%;
+}
